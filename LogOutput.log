@@ -1,0 +1,229 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - Lethal Company (19.11.2023 17:18:43)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [BoomboxController 1.1.1]
+[Info   :BoomboxController]  /$$$$$$$                                    /$$$$$$$                             /$$$$$$                        /$$                         /$$ /$$                    
+[Info   :BoomboxController] | $$__  $$                                  | $$__  $$                           /$$__  $$                      | $$                        | $$| $$                    
+[Info   :BoomboxController] | $$  \ $$  /$$$$$$   /$$$$$$  /$$$$$$/$$$$ | $$  \ $$  /$$$$$$  /$$   /$$      | $$  \__/  /$$$$$$  /$$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$ | $$| $$  /$$$$$$   /$$$$$$ 
+[Info   :BoomboxController] | $$$$$$$  /$$__  $$ /$$__  $$| $$_  $$_  $$| $$$$$$$  /$$__  $$|  $$ /$$/      | $$       /$$__  $$| $$__  $$|_  $$_/   /$$__  $$ /$$__  $$| $$| $$ /$$__  $$ /$$__  $$
+[Info   :BoomboxController] | $$__  $$| $$  \ $$| $$  \ $$| $$ \ $$ \ $$| $$__  $$| $$  \ $$ \  $$$$/       | $$      | $$  \ $$| $$  \ $$  | $$    | $$  \__/| $$  \ $$| $$| $$| $$$$$$$$| $$  \__/
+[Info   :BoomboxController] | $$  \ $$| $$  | $$| $$  | $$| $$ | $$ | $$| $$  \ $$| $$  | $$  >$$  $$       | $$    $$| $$  | $$| $$  | $$  | $$ /$$| $$      | $$  | $$| $$| $$| $$_____/| $$      
+[Info   :BoomboxController] | $$$$$$$/|  $$$$$$/|  $$$$$$/| $$ | $$ | $$| $$$$$$$/|  $$$$$$/ /$$/\  $$      |  $$$$$$/|  $$$$$$/| $$  | $$  |  $$$$/| $$      |  $$$$$$/| $$| $$|  $$$$$$$| $$      
+[Info   :BoomboxController] |_______/  \______/  \______/ |__/ |__/ |__/|_______/  \______/ |__/  \__/       \______/  \______/ |__/  |__/   \___/  |__/       \______/ |__/|__/ \_______/|__/      
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: I:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Creating cosmetics directory
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Message:   BepInEx] Chainloader startup complete
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
