@@ -10,7 +10,10 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] 4 plugins to load
+[Info   :   BepInEx] Loading [AdditionalSuits 1.1.3]
+[Info   :ACS.AdditionalSuits] AdditionalSuits - initializing...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - initialized!
 [Info   :   BepInEx] Loading [BoomboxController 1.1.1]
 [Info   :BoomboxController]  /$$$$$$$                                    /$$$$$$$                             /$$$$$$                        /$$                         /$$ /$$                    
 [Info   :BoomboxController] | $$__  $$                                  | $$__  $$                           /$$__  $$                      | $$                        | $$| $$                    
@@ -51,3 +54,100 @@
 [Info   :   BepInEx] Loading [Radio No Power 1.0.0.0]
 [Info   :SYXZ.RadioNoPower] Radio No Power has awoken
 [Message:   BepInEx] Chainloader startup complete
+[Info   :ACS.AdditionalSuits] AdditionalSuits - attempting to parse json file: I:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins\resAdditionalSuits\suit-defs.json
+[Info   :ACS.AdditionalSuits] AdditionalSuits - converting json file to manifest...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - attempting to parse json file:  items were found...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=0_Red_Suit, name=Red Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=0_Red_Suit, name=Red Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=1_Yellow_Suit, name=Yellow Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=1_Yellow_Suit, name=Yellow Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=2_Green_Suit, name=Green Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=2_Green_Suit, name=Green Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=3_Blue_Suit, name=Blue Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=3_Blue_Suit, name=Blue Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=4_Purple_Suit, name=Purple Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=4_Purple_Suit, name=Purple Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=5_Pink_Suit, name=Pink Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=5_Pink_Suit, name=Pink Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=6_White_Suit, name=White Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=6_White_Suit, name=White Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - processing custom suit {id=7_Black_Suit, name=Black Suit}...
+[Info   :ACS.AdditionalSuits] AdditionalSuits - added custom suit {id=7_Black_Suit, name=Black Suit}!
+[Info   :ACS.AdditionalSuits] AdditionalSuits - loaded item defs from json file!
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] True startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
+[Info   :BoomboxController] False startmusic
