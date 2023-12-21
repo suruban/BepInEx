@@ -10,9 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 4 plugins to load
-[Info   :   BepInEx] Loading [longerDay 1.0.0]
-[Info   :longerDayLog] time speed = 0,5
+[Info   :   BepInEx] 3 plugins to load
 [Info   :   BepInEx] Loading [BoomboxController 1.1.1]
 [Info   :BoomboxController]  /$$$$$$$                                    /$$$$$$$                             /$$$$$$                        /$$                         /$$ /$$                    
 [Info   :BoomboxController] | $$__  $$                                  | $$__  $$                           /$$__  $$                      | $$                        | $$| $$                    
@@ -25,6 +23,7 @@
 [Info   :   BepInEx] Loading [MoreCompany 1.7.2]
 [Info   :MoreCompany] Loading MoreCompany...
 [Info   :MoreCompany] Checking: I:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Creating cosmetics directory
 [Info   :MoreCompany] Read settings and cosmetics
 [Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
 [Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
