@@ -8,7 +8,7 @@ Projenin çalışması için halihazırda yüklü olan BeblnEx klasörünü silm
 - __[İndirmek İçin Tıkla](https://github.com/nodeca/babelfish/)__ - 
 burdan indirdiğin dosyayı oyun klasörünün içine atıp bir kere çalıştırman yeterli.
 ```
-Bat dosyasını calıstırdıktan sonra yapman gereken tek şey "gerceklethalcompany" bat dosyasını masaüstüne götürmek ve oyuna ordan girmek
+Bat dosyasını calıstırdıktan sonra yapman gereken tek şey "gerceklethalcompany-KISAYOL" KISAYOL dosyasını masaüstüne götürmek ve oyuna ordan girmek
 ```
 
 
