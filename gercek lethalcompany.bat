@@ -11,7 +11,7 @@ timeout /t 4
 cd ..
 
 :: Üst dizindeki .exe dosyasını çalıştırma
-echo Oyun başlatılıyoru...
+echo Oyun baslatiliyoru...
 start "" "Lethal Company.exe"
 timeout /t 4
 
