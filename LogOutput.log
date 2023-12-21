@@ -10,7 +10,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 5 plugins to load
+[Info   :   BepInEx] 4 plugins to load
 [Info   :   BepInEx] Loading [longerDay 1.0.0]
 [Info   :longerDayLog] time speed = 0,5
 [Info   :   BepInEx] Loading [BoomboxController 1.1.1]
@@ -22,9 +22,6 @@
 [Info   :BoomboxController] | $$  \ $$| $$  | $$| $$  | $$| $$ | $$ | $$| $$  \ $$| $$  | $$  >$$  $$       | $$    $$| $$  | $$| $$  | $$  | $$ /$$| $$      | $$  | $$| $$| $$| $$_____/| $$      
 [Info   :BoomboxController] | $$$$$$$/|  $$$$$$/|  $$$$$$/| $$ | $$ | $$| $$$$$$$/|  $$$$$$/ /$$/\  $$      |  $$$$$$/|  $$$$$$/| $$  | $$  |  $$$$/| $$      |  $$$$$$/| $$| $$|  $$$$$$$| $$      
 [Info   :BoomboxController] |_______/  \______/  \______/ |__/ |__/ |__/|_______/  \______/ |__/  \__/       \______/  \______/ |__/  |__/   \___/  |__/       \______/ |__/|__/ \_______/|__/      
-[Info   :   BepInEx] Loading [Minimap 1.0.5]
-[Info   :LethalCompanyMinimap] Minimap 1.0.5 loaded!
-[Info   :LethalCompanyMinimap] MinimapGUI loaded.
 [Info   :   BepInEx] Loading [MoreCompany 1.7.2]
 [Info   :MoreCompany] Loading MoreCompany...
 [Info   :MoreCompany] Checking: I:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics

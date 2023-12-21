@@ -3,6 +3,7 @@
 :: Git pull işlemi
 echo Modlar yukleniyoru
 git pull origin main
+git clean -fd
 
 :: 4 saniye bekleme süresi
 timeout /t 4
